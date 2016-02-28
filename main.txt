@@ -4,3 +4,7 @@ v1.0
 
 
 //edited (this main thread) 28.02.2016
+
+
+
+//edited (creating new threads)... sm day
